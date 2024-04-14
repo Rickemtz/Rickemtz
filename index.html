@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+    <html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Muxu - Turismo Inclusivo en México</title>
+        <!-- Agrega aquí los enlaces a tus archivos CSS y cualquier otro recurso necesario -->
+        <style>
+            /* Estilos para el encabezado */
+            header {
+                background-color: #ffffff; /* Fondo blanco */
+                padding: 10px 0; /* Ajuste de relleno */
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                position: relative;
+            }
+
+            /* Estilos para el logo */
+            .logo img {
+                width: 150px; /* Ajusta el ancho del logo según sea necesario */
+                border-radius: 50%; /* Redondea el logo */
+            }
+
+            /* Estilos para el menú de navegación */
+            nav ul {
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+            }
+
+            nav ul li {
+                display: inline;
+                margin-right: 20px; /* Espacio entre elementos del menú */
+            }
+
+            nav ul li a {
+                text-decoration: none;
+                color: #000000; /* Color del texto del enlace */
+                font-weight: bold;
+                font-size: 16px;
+            }
+
+            /* Estilos CSS para la imagen opaca */
+            .imagen-opaca {
+                position: relative;
+                width: 100%;
+                height: 300px; /* Ajusta la altura según sea necesario */
+                background-image: url('https://imgs.search.brave.com/p_edrT4DP5-YBz8qdDgstpvZuZUoLZagEjDKafBcrsc/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaG9sYS5jb20v/aW1hZ2VuZXMvdmlh/amVzLzIwMjIxMTE1/MjIwOTU2L21leGlj/by1wdWVibG9zLW1h/Z2ljb3MvMS0xNjct/NTMyL2F5eS0yYzZ5/Y3BmLWEuanBnP3R4/PXdfMzYw'); /* Ruta a tu imagen */
+                background-size: cover;
+                background-position: center;
+            }
+            .texto-opaco {
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                color: white;
+                text-align: center;
+                background-color: rgba(0, 0, 0, 0.5); /* Color de fondo opaco */
+                padding: 20px;
+            }
+
+            /* Estilos para la sección de información */
+            .informacion {
+                padding: 50px 20px; /* Ajuste de relleno */
+                text-align: center;
+                background-color: #f9f9f9; /* Color de fondo */
+                border-radius: 20px; /* Bordes redondeados */
+                box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
+                margin: 20px; /* Margen exterior */
+                display: flex; /* Mostrar los elementos en línea */
+                flex-direction: row-reverse; /* Revertir la dirección de los elementos */
+                align-items: center; /* Alinear elementos verticalmente */
+            }
+            .informacion h3 {
+                margin-bottom: 20px; /* Espacio inferior entre títulos y párrafos */
+            }
+            .informacion p {
+                font-size: 18px;
+                line-height: 1.6;
+                text-align: left; /* Alinear texto a la izquierda */
+            }
+
+            /* Estilos para la imagen */
+            .imagen {
+                border-radius: 20px; /* Bordes redondeados */
+                box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
+                margin: 20px; /* Margen exterior */
+                width: 400px; /* Ancho de la imagen */
+                height: auto; /* Altura automática */
+            }
+
+            /* Estilos para la presentación de fotos */
+            .presentacion-fotos {
+                display: flex; /* Mostrar las imágenes en línea */
+                justify-content: center; /* Centrar las imágenes horizontalmente */
+                margin-top: 50px; /* Margen superior */
+            }
+            .presentacion-fotos img {
+                margin: 0 10px; /* Margen entre imágenes */
+                border-radius: 10px; /* Bordes redondeados */
+                box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
+                width: 200px; /* Ancho de las imágenes */
+                height: auto; /* Altura automática */
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <div class="logo">
+                <img src="https://imgs.search.brave.com/p_edrT4DP5-YBz8qdDgstpvZuZUoLZagEjDKafBcrsc/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaG9sYS5jb20v/aW1hZ2VuZXMvdmlh/amVzLzIwMjIxMTE1/MjIwOTU2L21leGlj/by1wdWVibG9zLW1h/Z2ljb3MvMS0xNjct/NTMyL2F5eS0yYzZ5/Y3BmLWEuanBnP3R4/PXdfMzYw" alt="Logo de Muxu">
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Inicio</a></li>
+                    <li><a href="#">Sobre nosotros</a></li>
+                    <li><a href="Registroguia.html">Registro guia</a></li>
+                    <li><a href="Registrousuario.html">Registro</a></li>
+                    <li><a href="#">Contacto</a></li>
+                </ul>
+            </nav>
+        </header>
+        <div class="imagen-opaca">
+            <div class="texto-opaco">
+                <h2>Descubre el Turismo Inclusivo con Muxu</h2>
+                <p>Somos una empresa dedicada a promover el turismo inclusivo en México. Con Muxu, puedes disfrutar de experiencias únicas guiadas por guías turísticos locales capacitados, que atienden a las necesidades específicas de cada cliente.</p>
+            </div>
+        </div>
+        <section class="informacion">
+            <img class="imagen" src="https://imgs.search.brave.com/p_edrT4DP5-YBz8qdDgstpvZuZUoLZagEjDKafBcrsc/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaG9sYS5jb20v/aW1hZ2VuZXMvdmlh/amVzLzIwMjIxMTE1/MjIwOTU2L21leGlj/by1wdWVibG9zLW1h/Z2ljb3MvMS0xNjct/NTMyL2F5eS0yYzZ5/Y3BmLWEuanBnP3R4/PXdfMzYw" alt="Imagen">
+            <div>
+                <h3>La Importancia de la Inclusión en el Turismo en México</h3>
+                <p>El turismo inclusivo desempeña un papel crucial en la promoción de la igualdad de oportunidades y el acceso universal a las experiencias turísticas. En México, un país rico en diversidad cultural y belleza natural, la inclusión en el turismo es fundamental para garantizar que todas las personas, independientemente de sus capacidades o circunstancias, puedan disfrutar plenamente de los destinos turísticos del país.</p>
+                <p>Al promover el turismo inclusivo, no solo estamos ampliando las oportunidades de viaje para personas con discapacidades, sino que también estamos fomentando el respeto y la comprensión hacia la diversidad cultural y social de México. Además, el turismo inclusivo contribuye al desarrollo económico sostenible al crear empleo y oportunidades comerciales en comunidades locales.</p>
+            </div>
+        </section>
+        <div class="presentacion-fotos">
+            <img src="https://imgs.search.brave.com/p_edrT4DP5-YBz8qdDgstpvZuZUoLZagEjDKafBcrsc/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaG9sYS5jb20v/aW1hZ2VuZXMvdmlh/amVzLzIwMjIxMTE1/MjIwOTU2L21leGlj/by1wdWVibG9zLW1h/Z2ljb3MvMS0xNjct/NTMyL2F5eS0yYzZ5/Y3BmLWEuanBnP3R4/PXdfMzYw" alt="Foto 1">
+            <img src="https://imgs.search.brave.com/gncCDVp5fpfIRhxIFdemHKKU4rGxzWikfk-kropHj8c/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9waG90/b3Muc211Z211Zy5j/b20vTm9ydGgtQW1l/cmljYS9NZXhpY28v/R3VhbmFqdWF0by1T/dGF0ZS9HdWFuYWp1/YXRvL2ktWDJybkhU/Yi8wLzEzY2E4YmFi/L1g0L3Bvem9zLWRl/LW1pbmVyYWwtbWlu/ZXJzLXRvd24tMTA2/NDc0Mzc2LW1pbi1Y/NC5qcGc" alt="Foto 2">
+            <img src="https://imgs.search.brave.com/SMjEWPzyom8IbkCPrnF-BcevhTUnGqHACmYftIsHrCE/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9waG90/b3Muc211Z211Zy5j/b20vTm9ydGgtQW1l/cmljYS9NZXhpY28v/TWV4aWNvLUNpdHkt/MS9UZW90aWh1YWNh/bi9pLWd2OFBqUnYv/MC9mZWQ1NjcyMi9M/L3N1bnJpc2Utb24t/aG90LWFpci1iYWxs/b29uLW92ZXItdGhl/LXRlb3RpaHVhY2Fu/LTI1MTQ3NDQ1My1t/aW4tTC5qcGc" alt="Foto 3">
+        </div>
+        <!-- Aquí continuaría el contenido principal de tu página -->
+    </body>
+    </html>
