@@ -1,4 +1,4 @@
-# Hola, soy Erick Martínez 👋
+# Hola, soy Erick Martínez
 **SysAdmin Linux Jr · Supercómputo · Ciberseguridad**
 *Licenciatura en Computación — UAM Iztapalapa, CDMX*
 ---
