@@ -3,8 +3,7 @@
 *Licenciatura en Computación — UAM Iztapalapa, CDMX*
 ---
 ## Sobre mí
-Trabajo como SysAdmin Linux Jr en Sanborns Hermanos (Plaza Carso),
-administrando sistemas críticos en producción. También soy becario
+Trabajo como SysAdmin Linux Jr, administrando sistemas críticos en producción. También soy becario
 en el Laboratorio de Supercómputo y Visualización en Paralelo (LSVP)
 de la UAM Iztapalapa, donde implementé una solución SIEM/XDR con
 Wazuh sobre el clúster HPC Yoltla.
