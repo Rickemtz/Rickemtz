@@ -21,7 +21,7 @@ la automatización de operaciones.
 | Proyecto | Descripción | Stack |
 |---|---|---|
 | [wazuh-hpc-siem](https://github.com/Rickemtz) | Implementación SIEM/XDR sobre clúster HPC | Wazuh, Linux, Bash |
-| [bash-sysadmin-scripts](https://github.com/Rickemtz) | Scripts de automatización para administración Linux | Bash, Python |
+| [bash-sysadmin-scripts](https://github.com/Rickemtz/bash-sysadmin-scripts) | Scripts de automatización para administración Linux | Bash, Python |
 | [HackBanorte 2024](https://github.com/Rickemtz/HackBanorte) | Simulador financiero — Hackathon Banorte | FastAPI, Flutter, GCP |
 | [Sistema de Recibos](https://github.com/Rickemtz/Sistema-Registro-Recibos) | Generación y registro de recibos | Python, Tkinter, pandas |
 ---
