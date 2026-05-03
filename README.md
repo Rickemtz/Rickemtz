@@ -1,4 +1,21 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,40:003322,80:00cc77,100:33ffaa&height=200§ion=header&text=Erick%20Mart%C3%ADnez&fontColor=ffffff&fontSize=60&fontAlignY=45&desc=SysAdmin%20Linux%20%C2%B7%20HPC%20%C2%B7%20Ciberseguridad&descAlignY=65&descSize=17&animation=fadeIn)
+
+
+ERICK MARTINEZ
+
+
+
+SysAdmin Linux · HPC · Ciberseguridad
+
+
+
+
+UAM Iztapalapa — CDMX
+
+
+
+
+
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00FF99&center=true&vCenter=true&width=700&lines=SysAdmin+Linux+Jr+%40+Gupo+Carso;Becario+HPC+---+Cluster+Yoltla;SIEM%2FXDR+con+Wazuh+en+produccion;Bash+%7C+Python+%7C+Linux+%7C+DevOps;UAM+Iztapalapa+---+Lic.+Computacion)](https://github.com/Rickemtz)
