@@ -1,4 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=004d2e&height=200§ion=header&text=Erick%20Mart%C3%ADnez&fontColor=ffffff&fontSize=60&fontAlignY=45&desc=SysAdmin%20Linux%20%C2%B7%20HPC%20%C2%B7%20Ciberseguridad&descAlignY=65&descSize=17&animation=fadeIn)
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=004d2e&height=150&section=header&text=Erick%20Mart%C3%ADnez&fontColor=ffffff&fontSize=72&fontAlignY=42&desc=SysAdmin%20Linux%20%C2%B7%20HPC%20%C2%B7%20Ciberseguridad&descAlignY=62&descSize=18&animation=fadeIn)
+
+</div>
 
 <div align="center">
 
@@ -69,7 +73,7 @@ DevOps & Cloud
 ```
 PID   MODULO               TECH          LOAD    STATUS
 ───   ──────────────────   ──────────    ────    ──────
- 01   Linux SysAdmin       Bash/SSH      █████   running  ← Sanborns Hermanos
+ 01   Linux SysAdmin       Bash/SSH      █████   running  ← Grupo Carso
  02   SIEM / XDR           Wazuh         ████░   running  ← Cluster Yoltla
  03   HPC Support          OpenMPI       ████░   running  ← LSVP UAM
  04   Automatizacion       Bash/Python   ████░   running
