@@ -1,7 +1,5 @@
-<div align="center">
-![header](https://capsule-render.vercel.app/api?type=waving&color=004d2e&height=200§ion=header&text=Erick%20Mart%C3%ADnez&fontColor=ffffff&fontSize=72&fontAlignY=38&desc=SysAdmin%20Linux%20%C2%B7%20HPC%20%C2%B7%20Ciberseguridad&descAlignY=60&descSize=18&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200§ion=header&text=Erick%20Mart%C3%ADnez&fontColor=00ff99&fontSize=72&fontAlignY=38&desc=SysAdmin%20Linux%20%C2%B7%20HPC%20%C2%B7%20Ciberseguridad&descAlignY=60&descSize=18&descColor=33ccff&animation=fadeIn)
 
-</div>
 
 <div align="center">
 
