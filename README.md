@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:003322,60:006644,85:00cc77,100:33ffaa&height=230&section=header&text=Erick%20Martínez&fontColor=ffffff&fontSize=80&fontAlignY=38&desc=SysAdmin%20Linux%20·%20HPC%20·%20Ciberseguridad&descAlignY=60&descSize=20&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:003322,75:006644,100:00cc77&height=200§ion=header&text=Erick%20Mart%C3%ADnez&fontColor=ffffff&fontSize=72&fontAlignY=38&desc=SysAdmin%20Linux%20%C2%B7%20HPC%20%C2%B7%20Ciberseguridad&descAlignY=60&descSize=18&animation=fadeIn)
 
 <div align="center">
 
