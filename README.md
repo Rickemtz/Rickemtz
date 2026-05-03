@@ -1,18 +1,4 @@
-
-
-ERICK MARTINEZ
-
-
-
-SysAdmin Linux · HPC · Ciberseguridad
-
-
-
-
-UAM Iztapalapa — CDMX
-
-
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=004d2e&height=200§ion=header&text=Erick%20Mart%C3%ADnez&fontColor=ffffff&fontSize=72&fontAlignY=38&desc=SysAdmin%20Linux%20%C2%B7%20HPC%20%C2%B7%20Ciberseguridad&descAlignY=60&descSize=18&animation=fadeIn)
 
 
 
