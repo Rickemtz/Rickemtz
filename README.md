@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00FF99&center=true&vCenter=true&width=700&lines=SysAdmin+Linux+Jr+%40+Sanborns;Becario+HPC+---+Cluster+Yoltla;SIEM%2FXDR+con+Wazuh+en+produccion;Bash+%7C+Python+%7C+Linux+%7C+DevOps;UAM+Iztapalapa+---+Lic.+Computacion)](https://github.com/Rickemtz)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00FF99&center=true&vCenter=true&width=700&lines=SysAdmin+Linux+Jr+%40+Gupo+Carso;Becario+HPC+---+Cluster+Yoltla;SIEM%2FXDR+con+Wazuh+en+produccion;Bash+%7C+Python+%7C+Linux+%7C+DevOps;UAM+Iztapalapa+---+Lic.+Computacion)](https://github.com/Rickemtz)
 
 </div>
 
