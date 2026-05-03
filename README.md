@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:003322,60:006644,85:00cc77,100:33ffaa&height=230&section=header&text=Erick%20Martínez&fontColor=ffffff&fontSize=80&fontAlignY=38&desc=SysAdmin%20Linux%20·%20HPC%20·%20Ciberseguridad&descAlignY=60&descSize=20&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00FF99&center=true&vCenter=true&width=700&lines=SysAdmin+Linux+Jr+%40+Sanborns+%F0%9F%96%A5%EF%B8%8F;Becario+HPC+%E2%80%94+Cluster+Yoltla+%F0%9F%94%AC;SIEM%2FXDR+con+Wazuh+en+producci%C3%B3n+%F0%9F%9B%A1%EF%B8%8F;Bash+%7C+Python+%7C+Linux+%7C+DevOps+%F0%9F%90%A7;UAM+Iztapalapa+%E2%80%94+Licenciatura+en+Computaci%C3%B3n)](https://github.com/Rickemtz)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00FF99&center=true&vCenter=true&width=700&lines=SysAdmin+Linux+Jr+%40+Sanborns;Becario+HPC+---+Cluster+Yoltla;SIEM%2FXDR+con+Wazuh+en+produccion;Bash+%7C+Python+%7C+Linux+%7C+DevOps;UAM+Iztapalapa+---+Lic.+Computacion)](https://github.com/Rickemtz)
+
+</div>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Rickemtz&label=Profile+Views&color=00cc77&style=flat-square)](https://github.com/Rickemtz)
 [![Followers](https://img.shields.io/github/followers/Rickemtz?label=Followers&style=flat-square&color=33ffaa)](https://github.com/Rickemtz?tab=followers)
