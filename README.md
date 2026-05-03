@@ -10,7 +10,7 @@
 ## 👾 Sobre mí
 
 Soy **Erick Martínez**, Licenciado en Computación por la **UAM Iztapalapa**, CDMX.  
-Trabajo como **SysAdmin Linux Jr** en Sanborns Hermanos (Plaza Carso), administrando sistemas críticos en producción — infraestructura retail y servicios financieros.
+Trabajo como **SysAdmin Linux Jr** en grupo Carso, administrando sistemas críticos en producción — infraestructura retail y servicios financieros.
 
 También soy **Becario en Supercómputo** en el LSVP de la UAM, donde implementé una solución **SIEM/XDR con Wazuh** sobre el clúster HPC Yoltla.
 
@@ -81,7 +81,7 @@ PID   MODULO               TECH          LOAD    STATUS
 | Proyecto | Descripción | Stack | Estado |
 |---|---|---|---|
 | [🛡️ wazuh-hpc-siem](https://github.com/Rickemtz) | SIEM/XDR sobre clúster HPC — FIM, Config Assessment, Log Analysis | Wazuh · Linux · Bash | `running` |
-| [⚙️ bash-sysadmin-scripts](https://github.com/Rickemtz/bash-sysadmin-scripts) | Scripts de automatización para SysAdmin — logs, usuarios, backups | Bash · Python | `stable` |
+| [⚙️ bash-scripts](https://github.com/Rickemtz/bash-sysadmin-scripts) | Scripts de automatización para SysAdmin — logs, usuarios, backups | Bash · Python | `stable` |
 | [🌿 hyroto](https://github.com/Rickemtz/hyroto) | Dotfiles de Hyprland — setup triple monitor, keybinds, waybar | Hyprland · Linux | `maintained` |
 | [💳 HackBanorte 2024](https://github.com/Rickemtz) | Simulador financiero — Hackathon Banorte | FastAPI · Flutter · GCP · Vertex AI | `archived` |
 | [🗂️ Sistema de Recibos](https://github.com/Rickemtz/Sistema-Registro-Recibos) | Generación y registro de recibos con GUI | Python · Tkinter · pandas | `archived` |
@@ -130,7 +130,7 @@ PID   MODULO               TECH          LOAD    STATUS
 [2024]  compete   →  Hackathon SIE · App accesibilidad adultos mayores
 [2024]  compete   →  Hackathon Banorte · Simulador financiero con Vertex AI
 [2025]  deploy    →  LSVP · Implementacion SIEM/XDR Wazuh en cluster HPC Yoltla
-[2025]  work      →  SysAdmin Linux Jr · Sanborns Hermanos · Plaza Carso
+[2025]  work      →  SysAdmin Linux Jr · Grupo Carso
 [now]   status: running · automating · securing
 ```
 
