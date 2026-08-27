@@ -73,13 +73,12 @@ PID   MODULO               TECH          LOAD    STATUS
 
 [![Streak Stats](https://streak-stats.demolab.com?user=Rickemtz&theme=tokyonight&hide_border=true&background=0D1117&stroke=004d2e&ring=00cc77&fire=00ff99&currStreakLabel=00cc77&sideLabels=c9d1d9&dates=888888)](https://github.com/Rickemtz)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rickemtz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00cc77&icon_color=00ff99&text_color=c9d1d9&count_private=true)](https://github.com/Rickemtz)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rickemtz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00cc77&text_color=c9d1d9&langs_count=6)](https://github.com/Rickemtz)
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rickemtz&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00cc77&line=004d2e&point=00ff99&area=true)](https://github.com/Rickemtz)
 
-</div>
+![Stars](https://img.shields.io/github/stars/Rickemtz?style=flat-square&color=004d2e&label=Stars)
+![Repos](https://img.shields.io/github/followers/Rickemtz?style=flat-square&color=004d2e&label=Followers)
 
+</div>
 ---
 
 ## Trayectoria
