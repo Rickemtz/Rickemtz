@@ -14,7 +14,7 @@
 
 Soy Licenciado en Computación por la **UAM Iztapalapa**, CDMX.
 
-Trabajo como **SysAdmin Linux Jr en Grupo Carso**, administrando sistemas críticos en producción para infraestructura retail y servicios financieros. Paralelamente soy **Becario en Supercómputo** en el LSVP de la UAM, donde implementé una solución SIEM/XDR con Wazuh sobre el clúster HPC Yoltla.
+Trabajo como **SysAdmin Linux Jr en Grupo Carso**, administrando sistemas críticos en producción para infraestructura retail y servicios financieros. Paralelamente soy **Colaborador en Supercómputo** en el LSVP de la UAM, donde apoyo a usuarios en el clúster Yoltla, imparto cursos de Linux y elaboro documentación técnica para optimizar el uso de los recursos de supercómputo.
 
 Me interesa construir infraestructura que no falla: la que se monitorea, se automatiza y se entiende a fondo.
 
